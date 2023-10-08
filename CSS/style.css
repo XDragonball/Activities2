@@ -1,0 +1,35 @@
+
+body {
+    color: hex
+}
+
+header {
+    background-color: hsla(11, 0%, 0%, 1);
+    color: rgb(243,156,18);
+    text-align: center;
+}
+
+.review {
+    background-color: black;
+}
+
+.review h2 {
+    color: #fdfefe;
+}
+
+.review p.rating span {
+    font-weight: bold;
+    color: hsl(37, 90%, 51%);
+}
+
+.review p.description {
+    color: rgba(253, 254, 254, 0.774)
+}
+
+.review p.price {
+    color: rgba(253, 254, 254, 0.774)
+}
+
+.review p.student price {
+    color: rgba(253, 254, 254, 0.774)
+}
