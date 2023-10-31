@@ -1,0 +1,14 @@
+body{
+    font-family: Roboto, sans-serif;
+    magin: auto 30px;
+}
+
+#credits{
+    font-style:italic;
+    font-size: .75cm;
+    margin-bottom: 20px;
+}
+
+#header-imag{
+    width: 100%
+}
