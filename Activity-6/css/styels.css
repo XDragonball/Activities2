@@ -1,0 +1,57 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+
+.messages {
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.out-message {
+    padding: 10px;
+    background-color: #82b9e2;
+    color: #fff;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+.in-message {
+    padding: 10px;
+    background-color: #7ec4b8;
+    color: #fff;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 81%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 8px 15px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+#send-button {
+    background-color: #82b9e2;
+}
+
+#reply-button {
+    background-color: #7ec4b8;
+}
+
+.button-container {
+    display: flex;
+    gap: 0px;
+}
