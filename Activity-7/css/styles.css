@@ -1,0 +1,41 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: auto 30px;
+    color: #555;
+}
+
+#add-task {
+    background-color: #0e0000; 
+    color: rgb(253, 251, 251); 
+}
+
+
+ul {
+    margin: 0;
+}
+
+li {
+    padding: 5px;
+}
+
+#todo-list-container {
+    margin-top: 20px;
+}
+
+#completed-list{
+    list-style-type: none;
+}
+
+#completed-list li {
+    text-decoration: line-through;
+}
+
+h1, h2 {
+    font-size: 25px;
+    margin: 0;
+}
+
+#todo-list-container #add-task {
+    background-color: #0e0000;
+    color: rgb(12, 1, 1);
+}
